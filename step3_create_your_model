@@ -1,0 +1,3 @@
+Execute this command to create your model:
+
+    openai api fine_tunes.create -t prompt_completion_pairs_prepared.jsonl -m davinci

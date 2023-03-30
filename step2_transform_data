@@ -1,0 +1,3 @@
+Execute this command and you will get a jsonl file:
+
+    openai tools fine_tunes.prepare_data -f prompt_completion_pairs.csv
